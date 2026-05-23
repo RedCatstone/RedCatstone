@@ -1,4 +1,9 @@
-## Hi there 👋
+- hello, i'm a person
+- undergraduate student
+- likes rust
+- working on random useless projects
+
+thats all [;p](https://discord.com/vanityurl/dotcom/steakpants/flour/flower/index11.html)
 
 <!--
 **RedCatstone/RedCatstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

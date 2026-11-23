@@ -1,7 +1,7 @@
 - hello, i'm a person
 - undergraduate student
 - likes rust
-- working on random useless projects
+- working on random projects
 
 thats all [;p](https://discord.com/vanityurl/dotcom/steakpants/flour/flower/index11.html)
 
